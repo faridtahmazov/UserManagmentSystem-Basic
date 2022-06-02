@@ -2,26 +2,26 @@
 Using JDBC&amp;JSP&amp;Servlet&amp;JSTL
 
 Tools and technologies used:
-JSP - 2.2+;
-IDE - Intellij Idea;
-JDK - 1.8 or later;
-Apache Tomcat - 8.5;
-JSTL - 1.2.2;
-Servlet API - 4.0.1;
-MySQL - mysql-connector-java-8.0.22.jar;
+* JSP - 2.2+;
+* IDE - Intellij Idea;
+* JDK - 1.8 or later;
+* Apache Tomcat - 8.5;
+* JSTL - 1.2.2;
+* Servlet API - 4.0.1;
+* MySQL - mysql-connector-java-8.0.22.jar;
 
 Development Steps:
-Create an Intellij Idea Dynamic Web Project;
-Add Dependencies;
-Project Structure;
-MySQL Database Setup;
-Create a JavaBean - User.java;
-Create a UserDAO.java;
-Create a UserServlet.java;
-Creating User Listing JSP Page - user-list.jsp;
-Create a User Form JSP Page - user-form.jsp;
-Creating Error JSP page;
-Deploying and Testing the Application Demo;
+* Create an Intellij Idea Dynamic Web Project;
+* Add Dependencies;
+* Project Structure;
+* MySQL Database Setup;
+* Create a JavaBean - User.java;
+* Create a UserDAO.java;
+* Create a UserServlet.java;
+* Creating User Listing JSP Page - user-list.jsp;
+* Create a User Form JSP Page - user-form.jsp;
+* Creating Error JSP page;
+* Deploying and Testing the Application Demo;
 
 Users page:
 ![Screenshot (14)](https://user-images.githubusercontent.com/86052693/160180427-3e28290a-0d10-4d33-a246-a1c725b4545c.png)
